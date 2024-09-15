@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitterstoat/orrery.git"
+    "url": "https://github.com/eak300515/Nasa_Spaceapps2024-3D_orrery.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bitterstoat/orrery/issues"
+    "url": "https://github.com/eak300515/Nasa_Spaceapps2024-3D_orrery/orrey/issues"
   },
-  "homepage": "https://github.com/bitterstoat/orrery#readme",
+  "homepage": "https://github.com/eak300515/Nasa_Spaceapps2024-3D_orrery/orrery#README.md",
   "devDependencies": {
     "jsdoc": "^3.6.10",
     "three": "^0.156",
