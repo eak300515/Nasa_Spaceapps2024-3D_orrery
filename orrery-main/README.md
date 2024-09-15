@@ -11,7 +11,7 @@ It's definitely better as a desktop web experience than mobile in the current ve
 ## Features
 - Ephemerides for astronomical bodies in the Solar System, searachable for all above 1km in radius 
 - Exaggerated orrery view at the solar system scale, zoomable to true scale for planetary systems
-- Live data readout for the body's physical and orbital characteristics, right ascension/declination and altitude/azimuth coordintes relative to current location, rise and set times, and magnitude adjusted for atmospheric dispersion
+- Live data readout for the body's physical and orbital characteristics, right ascension/declination and altitude/azimuth coordinates relative to current location, rise and set times, and magnitude adjusted for atmospheric dispersion
 - Links to articles and images from Wikipedia
 - Background stars include all above 7th magnitude
 - HTTPvars for latitiude/longitude, start time, and reducing particle count
