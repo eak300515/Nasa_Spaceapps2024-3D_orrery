@@ -3,6 +3,9 @@ An interactive map of the Solar System created with Three.js and jQuery.
 
 It's definitely better as a desktop web experience than mobile in the current version.
 
+![image](https://github.com/user-attachments/assets/83d9f44e-8de3-4719-b74d-92a6a3767b47)
+
+
 ## Requirements
 - [Three.js](https://github.com/mrdoob/three.js/)
 - [jQuery](https://github.com/jquery/jquery) and [jQuery UI](https://github.com/jquery/jquery-ui)
