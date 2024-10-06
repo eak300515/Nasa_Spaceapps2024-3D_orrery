@@ -1,6 +1,6 @@
-# Team Name- Quasar Tag
-# Team Leader- Aditya Kumar eakadityakumar15@gmail.com
-# NasaSpaceApps2024 Challenge- Create an Orrery Web App that Displays Near-Earth Objects
+*Team Name-* Quasar Tag
+*Team Leader-* Aditya Kumar eakadityakumar15@gmail.com
+*NasaSpaceApps2024 Challenge-* Create an Orrery Web App that Displays Near-Earth Objects
 
 
 # orrery
