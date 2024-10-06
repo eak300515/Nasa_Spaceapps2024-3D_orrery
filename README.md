@@ -1,3 +1,8 @@
+#Team Name- Quasar Tag
+#Team Leader- Aditya Kumar eakadityakumar15@gmail.com
+#NasaSpaceApps2024 Challenge- Create an Orrery Web App that Displays Near-Earth Objects
+
+
 # orrery
 An interactive map of the Solar System created with Three.js and jQuery.
 
